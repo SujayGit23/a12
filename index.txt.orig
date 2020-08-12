@@ -1,0 +1,6 @@
+This is first line
+<<<<<<< HEAD
+This is added from feature1
+=======
+This line is from feaure2
+>>>>>>> feature2

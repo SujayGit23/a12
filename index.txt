@@ -1,2 +1,4 @@
 This is first line
-This is added from feature1
+This is is added from feature1
+This line is from feaure2
+
